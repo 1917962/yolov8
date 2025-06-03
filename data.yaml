@@ -1,0 +1,11 @@
+names:
+- 绿叶蝉
+- 稻虱
+- 卷叶螟
+- 螟虫
+- 稻飞虱
+nc: 5
+path: ./data
+test: ''
+train: ./data\data/train
+val: ./data\data/val
